@@ -35,7 +35,6 @@ Data was cleaned and modeled in SQL and Excel before being visualized in Power B
 - Percentage of Sales by Outlet Size
 - Sales by Outlet Location
 - All Metrics by Outlet Typ
-"https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/blob/main/Screenshot%202025-11-06%20083942.png" > View Dashboard<a/>
 
 Project Process
 - Data Collection: Gathered raw BlinkIT sales data containing outlet details, item types, and ratings.
