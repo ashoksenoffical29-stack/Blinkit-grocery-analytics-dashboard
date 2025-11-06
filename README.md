@@ -15,9 +15,9 @@ The dataset contains detailed grocery sales information such as outlet size, ite
 Data was cleaned and modeled in SQL and Excel before being visualized in Power BI.  
 
 **Dataset Link:**  
- [BlinkIT Grocery Data.xlsx]
+- [BlinkIT Grocery Data.xlsx]
  "https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"
- [Blinkit SQL Queries]
+- [Blinkit SQL Queries]
  "https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/edit/main/SQLblinkit_data.sql" 
 
 **Tools Used:**  
