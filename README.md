@@ -24,17 +24,17 @@ Data was cleaned and modeled in SQL and Excel before being visualized in Power B
 - Microsoft Excel  
 
 ## Questions (KPI's)
--Total Sales: The overall revenue generated from all items sold.
--Average Sales: The average revenue per sale.
--Number of Items: The total count of different items sold.
--Average Rating: The average customer rating for items sold. 
--Total Sales by Fat Content:
+Total Sales: The overall revenue generated from all items sold.
+Average Sales: The average revenue per sale.
+Number of Items: The total count of different items sold.
+Average Rating: The average customer rating for items sold. 
+Total Sales by Fat Content:
 	Objective: Analyze the impact of fat content on total sales.
 	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
--Total Sales by Item Type:
+Total Sales by Item Type:
 	Objective: Identify the performance of different item types in terms of total sales.
 	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
--Fat Content by Outlet for Total Sales:
+Fat Content by Outlet for Total Sales:
 	Objective: Compare total sales across different outlets segmented by fat content.
 	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 -Total Sales by Outlet Establishment:
