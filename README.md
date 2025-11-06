@@ -27,7 +27,7 @@ Data was cleaned and modeled in SQL and Excel before being visualized in Power B
 - SQL (MySQL / PostgreSQL)  
 - Microsoft Excel  
 
-## Questions (KPI's)
+## Required Key Performance Indicators (KPI's)
 - Total Sales
 - Average Sales
 - Number of Items
