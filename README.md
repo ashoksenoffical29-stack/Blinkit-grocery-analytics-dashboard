@@ -47,6 +47,9 @@ Project Process
 - Dashboard Enhancement: Added slicers, filters, and drill-throughs for dynamic data exploration.
 - Final Reporting: Compiled business insights and visual summaries for decision-making presentation.
 
+Dashboard
+<img width="1307" height="742" alt="Screenshot 2025-11-06 083942" src="https://github.com/user-attachments/assets/4eb849ce-af0d-482d-ab46-e5c60d2d1864" />
+
 
 
 
