@@ -16,7 +16,7 @@ Data was cleaned and modeled in SQL and Excel before being visualized in Power B
 
 **Dataset Link:**  
  [BlinkIT Grocery Data.xlsx]
-- a< href = "https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"
+- a< href = "https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx" > Dataset <a/>
 
 **Tools Used:**  
 - Power BI  
@@ -45,6 +45,7 @@ Data was cleaned and modeled in SQL and Excel before being visualized in Power B
 	Objective: Assess the geographic distribution of sales across different locations.
 -All Metrics by Outlet Type:
 	Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of 	Items, Average Rating) broken down by different outlet types.
+- a< href = "https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/blob/main/Screenshot%202025-11-06%20083942.png" > View Dashboard<a/>
 
 
 
