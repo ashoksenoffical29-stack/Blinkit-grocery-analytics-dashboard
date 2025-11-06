@@ -17,8 +17,10 @@ Data was cleaned and modeled in SQL and Excel before being visualized in Power B
 **Dataset Link:**  
 - [BlinkIT Grocery Data.xlsx]
  "https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"
-- [Blinkit SQL Queries]
- "https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/edit/main/SQLblinkit_data.sql" 
+- Blinkit data.sql
+ "https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/edit/main/SQLblinkit_data.sql"
+- Blinkit PowerBi.pbix
+  "https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/blob/main/Blinkit%20Project%20(3).pbix"
 
 **Tools Used:**  
 - Power BI  
