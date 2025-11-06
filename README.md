@@ -16,7 +16,7 @@ Data was cleaned and modeled in SQL and Excel before being visualized in Power B
 
 **Dataset Link:**  
  [BlinkIT Grocery Data.xlsx]
-- a< href = "https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx" > Dataset <a/>
+ "https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx" > Dataset <a/>
 
 **Tools Used:**  
 - Power BI  
@@ -36,6 +36,16 @@ Data was cleaned and modeled in SQL and Excel before being visualized in Power B
 - Sales by Outlet Location
 - All Metrics by Outlet Typ
 "https://github.com/ashoksenoffical29-stack/Blinkit-grocery-analytics-dashboard/blob/main/Screenshot%202025-11-06%20083942.png" > View Dashboard<a/>
+
+Project Process
+- Data Collection: Gathered raw BlinkIT sales data containing outlet details, item types, and ratings.
+- Data Cleaning: Removed duplicates, handled missing values, and standardized columns using Excel and SQL.
+- Data Transformation: Structured and modeled data into relational tables for accurate analysis.
+- SQL Analysis: Performed queries to extract insights on sales trends, outlet performance, and product categories.
+- Data Visualization: Imported cleaned data into Power BI to build interactive dashboards and KPI visuals.
+- Insight Generation: Interpreted key metrics such as total sales, average sales, and outlet contribution.
+- Dashboard Enhancement: Added slicers, filters, and drill-throughs for dynamic data exploration.
+- Final Reporting: Compiled business insights and visual summaries for decision-making presentation.
 
 
 
